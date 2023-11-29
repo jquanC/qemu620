@@ -1,0 +1,30 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"path": "../../../../../home/jquan/some_exp_general"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"thread": "c",
+			"__threading_support": "c",
+			"*.inc": "c",
+			"random": "c",
+			"type_traits": "c",
+			"ranges": "c",
+			"locale": "c",
+			"regex": "c",
+			"string": "c",
+			"unordered_map": "c",
+			"valarray": "c",
+			"vector": "c",
+			"tcg.h": "c",
+			"*.code": "c",
+			"mmap-alloc.h": "c",
+			"replay.h": "c"
+		}
+	}
+}

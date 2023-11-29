@@ -1,0 +1,23 @@
+{
+    "search.useIgnoreFiles": false,
+    "files.associations": {
+        "thread": "c",
+        "__threading_support": "c",
+        "*.inc": "c",
+        "random": "c",
+        "type_traits": "c",
+        "ranges": "c",
+        "locale": "c",
+        "regex": "c",
+        "string": "c",
+        "unordered_map": "c",
+        "valarray": "c",
+        "vector": "c",
+        "tcg.h": "c",
+        "*.tcc": "c",
+        "fstream": "c",
+        "sstream": "c",
+        "chrono": "c",
+        "iov.h": "c"
+    }
+}
